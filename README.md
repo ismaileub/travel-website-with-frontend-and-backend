@@ -39,17 +39,19 @@ To set up a local copy of the project, make sure you have the following installe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ExploreHeaven.git
+   git clone https://github.com/ismaileub/travel-website-with-frontend-and-backend-.git
    cd ExploreHeaven-client-side
 
-2.npm install
+2.
+    
+    npm install
 
 3.Firebase Setup:
 
     Make sure you have a Firebase project set up. Go to the Firebase Console and create a new project if you haven’t already.
     Once your project is set up, go to Project Settings and locate the Firebase SDK configuration. Copy the Firebase configuration and create a .env file in your project root directory.
 
-4.Create a .env file:
+4. Create a .env file:
    In your .env file, add your Firebase configuration details:
    plaintext
     
@@ -62,16 +64,15 @@ To set up a local copy of the project, make sure you have the following installe
  
  Make sure to replace each value with the actual configuration details from Firebase.
 
- 5.Run the Development Server:
+ 5. Run the Development Server:
 
- Start the development server by running:
- bash
+ 
 
     npm start
 
     The app should now be running on http://localhost:3000.
 
-    ## Technologies Used
+    
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, AOS (Animate on Scroll)
