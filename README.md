@@ -2,7 +2,8 @@
 
 Welcome to **Explore Heaven** – your gateway to the most mesmerizing travel experiences! Whether you're planning your next adventure or just exploring the beauty of Europe, Explore Heaven provides a wealth of information to make your journey unforgettable.
 
-- View Live Site [Explore Heaven](https://explore-heaven.web.app/){:target="_blank"}
+- View Live Site: <a href="https://explore-heaven.web.app/" target="_blank">Visit Explore Heaven</a>
+
 
 ## Table of Contents
 
