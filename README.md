@@ -43,7 +43,7 @@ To set up a local copy of the project, make sure you have the following installe
    cd ExploreHeaven-client-side
 
 2.
-    
+    ```bash
     npm install
 
 3.Firebase Setup:
